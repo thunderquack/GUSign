@@ -1,0 +1,17 @@
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\GUSign.exe.config
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Resources\eTPKCS11g.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Resources\eTPKCS11gx.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Resources\Net.Pkcs11.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Resources\Net.Pkcs11.EtokenExtensions.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\GUSign.exe
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\GUSign.pdb
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Net.Pkcs11.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\bin\Release\Net.Pkcs11.EtokenExtensions.dll
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GUSign.FMain.resources
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GUSign.FPIN.resources
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GUSign.Properties.Resources.resources
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GUSign.exe
+C:\Documents and Settings\Egor\мои документы\visual studio 2010\Projects\GUSign\GUSign\obj\x86\Release\GUSign.pdb
